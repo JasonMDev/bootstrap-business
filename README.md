@@ -1,14 +1,14 @@
 # Bootstrap Business
 
 ## Introduction
-A demo portfolio built by leveraging best practises from the HTML5 Boilerplate along with Bootstrap.
+A demo business landing page built by leveraging best practises from the HTML5 Boilerplate along with Bootstrap.
 
 This is based on the book [*Bootstrap Site Blueprints*](https://www.packtpub.com/web-development/bootstrap-site-blueprints) written by David Cochran, Ian Whitley and published in Feb 2014. 
 
 The general outline was followed, however the latest versions of the HTML5 boilerplate and bootstrap libraries at the time were used.
 
 ## Feautures
-These are some of the feautures that have been added to the web page (*text modified from above mentioned book*):
+These are some of the features that have been added to the web page (*not my own words, description used from book*):
 *   Styling a complex responsive navbar, so that it appears below the logo and
 banner area in medium and large viewports and yet collapses into a mobile-
 friendly navbar on smaller screens
